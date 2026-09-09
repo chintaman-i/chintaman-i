@@ -1,21 +1,13 @@
-<div align="center">
-
 # 👋 Hi, I'm **Chintamani Godbole**
 
 ### `MCA Student` • `Java Developer` • `Android Developer` • `Database Enthusiast`
 
 **Building practical software • Learning continuously • Exploring technology**
 
-<p>
-  <a href="https://github.com/chintaman-i">
-    <img src="https://img.shields.io/badge/GitHub-chintaman--i-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/MCA-Student-7B2CBF?style=for-the-badge" alt="MCA Student">
-  <img src="https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-</p>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-chintaman--i-181717?style=for-the-badge\&logo=github)](https://github.com/chintaman-i)
+![MCA Student](https://img.shields.io/badge/MCA-Student-7B2CBF?style=for-the-badge)
+![Java Developer](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Android Developer](https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 ---
 
@@ -40,33 +32,41 @@ I enjoy creating software that solves **practical, real-world problems** and lea
 
 # ⚡ Tech Stack
 
-<div align="center">
-
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php" />
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ### 📱 Android & Backend
 
-<img src="https://skillicons.dev/icons?i=android,firebase" />
+![Android](https://skillicons.dev/icons?i=android)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,androidstudio,vscode" />
-
-</div>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 🧩 What I Work With
+# 🧩 What I Work With
 
 | Area                 | Technologies                                   |
 | -------------------- | ---------------------------------------------- |
@@ -201,23 +201,15 @@ I believe the mindset required in the mountains—**planning, perseverance, adap
 
 # 📊 GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintaman-i\&show_icons=true\&theme=transparent\&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=chintaman-i&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chintaman-i&layout=compact&theme=transparent&hide_border=true" height="170"/>
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chintaman-i\&layout=compact\&theme=transparent\&hide_border=true)
 
 ---
 
 # 🐍 Contribution Activity
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -237,24 +229,13 @@ I'm working towards becoming a well-rounded software developer by:
 
 # 🤝 Let's Connect
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/chintaman-i)
 
-<a href="https://github.com/chintaman-i">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:chintamani8586@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chintamani8586@gmail.com)
 
 ---
-
-<div align="center">
 
 ### 💡 Build • Learn • Explore • Improve
 
 *Thanks for visiting my profile!*
 
-</div>
