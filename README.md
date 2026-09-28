@@ -209,9 +209,9 @@ I believe the mindset required in the mountains—**planning, perseverance, adap
 
 # 🐍 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<!--#![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
----
+--->
 
 # 🎯 Goals
 
