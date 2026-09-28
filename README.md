@@ -199,13 +199,13 @@ I believe the mindset required in the mountains—**planning, perseverance, adap
 
 ---
 
-# 📊 GitHub
+<!--# 📊 GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintaman-i\&show_icons=true\&theme=transparent\&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chintaman-i\&layout=compact\&theme=transparent\&hide_border=true)
 
----
+---!>
 
 <!--# 🐍 Contribution Activity
 
